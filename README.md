@@ -1,4 +1,4 @@
 # Semaine2
 ##Excercie 1 ok
 ## Lien vers mes badges Codecademy : https://www.codecademy.com/users/ajaxNinja76646/achievements
-## Déduction des deux lignes précedentes : excercice2 ok :) 
+## Déduction des deux lignes précédentes : excercice2 ok :) 
